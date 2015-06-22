@@ -1,0 +1,15 @@
+== README
+
+Ruby on Rails
+
+Rails Users Project
+
+* Ruby4
+
+* Login & Registration
+
+* sqlite3
+
+* 3 models associations (users, secrets, likes)
+
+* Controller & Views
